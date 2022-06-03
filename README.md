@@ -12,7 +12,7 @@ To be able to run the Haskell fractal tree a few prerequisites are needed.
 | Gloss dependency freeGLUT | https://www.transmissionzero.co.uk/software/freeglut-devel/ | v3.0.0 |
 <br>
 
-The freeGLUT _.dll_ has already been included in the 'mylibs' folder. However, for the application to run properly the device executing the fractal tree also need to add the file to it's PATH system variables.
+The freeGLUT _.dll_ has already been included in the 'mylibs' folder. However, for the application to run properly the device executing the fractal tree also needs to add the file to it's PATH system variables.
 <br></br>
 
 ## How to execute
